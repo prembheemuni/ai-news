@@ -16,4 +16,8 @@
 .heading{
     text-align: center;
     text-transform: uppercase;
+    color: #313bac;;
+    font-family: 'Courier New', monospace;
+    margin: 2rem;
 }
+
